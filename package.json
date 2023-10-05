@@ -1,0 +1,13 @@
+{
+  "name": "postman-api-from-paths",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Get Postman API IDs from a list of paths.",
+  "type": "module",
+  "main": "cli.js",
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ini": "^4.1.1"
+  }
+}
